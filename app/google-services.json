@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371416338647",
+    "project_id": "kotlinsocialviewbinding",
+    "storage_bucket": "kotlinsocialviewbinding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371416338647:android:4b790dbd9a386b9023e092",
+        "android_client_info": {
+          "package_name": "com.metehanbolat.kotlinsocialviewbinding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371416338647-n001ra9hm7iqh4gfo67ehd23oeangt85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtv7JyTwXgHEgWzUykMBT4MPkbuJsfU7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371416338647-n001ra9hm7iqh4gfo67ehd23oeangt85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
